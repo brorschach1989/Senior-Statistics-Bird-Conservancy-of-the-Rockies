@@ -1,0 +1,4 @@
+Use to find which bird species are included in the data set.
+```{r}
+unique(your.data$Species)
+```
